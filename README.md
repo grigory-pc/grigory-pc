@@ -4,7 +4,7 @@
 
 ---
 
-### Связаться со мной можно:
+### Контакты для связи со мной:
 <a href="https://t.me/Grigory_PC">
     <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="My telegram"/>
 </a>
