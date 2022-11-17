@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="My telegram"/>
 </a>
 
-[![my - mail](https://img.shields.io/badge/my-mail-0151FE)](mailto:g.trubnikov@mail.ru)
+[![my email](https://img.shields.io/badge/my_email-0052FB?logo=%23EA4335)](mailto:g.trubnikov@mail.ru)
 
 ---
 #### Мой стек технологий:
@@ -23,7 +23,7 @@
 
 ---
 Увлекает разработка на Java. С моими работами можно ознакомиться в моём репозитории:  
-[![explore - with me](https://img.shields.io/badge/explore-with_me-0026FF)](https://github.com/grigory-pc/java-explore-with-me)   
-[![share - it](https://img.shields.io/badge/share-it-FF0000)](https://github.com/grigory-pc/java-shareit)  
-[![filmo - rate](https://img.shields.io/badge/filmo-rate-00BC09)](https://github.com/grigory-pc/java-filmorate)  
+[![explore with me](https://img.shields.io/badge/explore_with_me-0026FF)](https://github.com/grigory-pc/java-explore-with-me)  
+[![share it](https://img.shields.io/badge/share_it-FF0000)](https://github.com/grigory-pc/java-shareit)  
+[![filmorate](https://img.shields.io/badge/filmorate-00BC09)](https://github.com/grigory-pc/java-filmorate)
  
