@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="My telegram"/>
 </a>
 <a href="mailto:g.trubnikov@mail.ru">
-    <img src="https://telegra.ph/file/3f248ca98b22336d61bcb.jpg" alt="mail" title="mail" width="400">
+    <img src="https://telegra.ph/file/3f248ca98b22336d61bcb.jpg" alt="mail" title="mail" width="50">
 </a>
 
 ---
