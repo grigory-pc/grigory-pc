@@ -16,4 +16,3 @@
 #### Мой стек технологий:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-    <img src="https://img.shields.io/badge/-Gmail-red?color=white&logo=Gmail&logoColor=red" alt="My mail"/>
