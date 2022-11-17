@@ -1,6 +1,6 @@
 <h1 align="center">Привет! Меня зовут Григорий Трубников 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я Java-разработчик из России</h3>
+<h3 align="center">Я Java-разработчик из России 🇷🇺</h3>
 
 ---
 
