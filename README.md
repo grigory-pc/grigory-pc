@@ -8,9 +8,8 @@
 <a href="https://t.me/Grigory_PC">
     <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="My telegram"/>
 </a>
-<a href="mailto:g.trubnikov@mail.ru">
-    <img src="https://telegra.ph/file/3f248ca98b22336d61bcb.jpg" alt="Sample screenshot" title="mail" width="50">
-</a>
+
+[![my - mail](https://img.shields.io/badge/my-mail-0151FE)](mailto:g.trubnikov@mail.ru)
 
 ---
 #### Мой стек технологий:
@@ -21,3 +20,4 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+---
