@@ -9,10 +9,11 @@
     <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="My telegram"/>
 </a>
 <a href="mailto:g.trubnikov@mail.ru">
-    <img src="https://img.shields.io/badge/-Gmail-red?color=white&logo=Gmail&logoColor=red" alt="My mail"/>
+    <img src="https://telegra.ph/file/3f248ca98b22336d61bcb.jpg" alt="mail" title="mail" width="400">
 </a>
 
 ---
 #### Мой стек технологий:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
+    <img src="https://img.shields.io/badge/-Gmail-red?color=white&logo=Gmail&logoColor=red" alt="My mail"/>
