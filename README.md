@@ -21,7 +21,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ---
-Увлекает разработка на Java. С моими работами можно ознакомиться в моём репозитории:  
+Java-разработчик. С моими работами можно ознакомиться в моём репозитории:  
 [![explore with me](https://img.shields.io/badge/explore_with_me-0026FF)](https://github.com/grigory-pc/java-explore-with-me)  
 [![share it](https://img.shields.io/badge/share_it-FF0000)](https://github.com/grigory-pc/java-shareit)  
 [![filmorate](https://img.shields.io/badge/filmorate-00BC09)](https://github.com/grigory-pc/java-filmorate)
